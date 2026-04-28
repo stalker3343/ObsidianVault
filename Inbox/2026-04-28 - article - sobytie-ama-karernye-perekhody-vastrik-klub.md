@@ -13,4 +13,270 @@ tags:
 
 ## Содержание
 
-*Не удалось надежно извлечь текст. Нужна ручная обработка.*
+Событие: \[AMA\] 🎤 Карьерные переходы — Вастрик.Клуб 🤘✖️👩‍💻                 
+
+≡
+
+[Вастрик![ x ](/static/images/logo/logo-128.png)Клуб](/)
+
+ 
+
+[Пиши](/create/)[](/bookmarks/)
+
+[![Аватар Артем Бястик](https://i.vas3k.club/451b8140ef7b516304f0544962392e653ed36b80f666158da86b3054390fd66b.jpg)](/user/byastix/)
+
+📅 \[AMA\] 🎤 Карьерные переходы
+================================
+
+ Только для своих
+
+19 апреля 2026  552  [В закладки](/post/31418/bookmark/)  [Наградить](/post/31418/badge/)
+
+22
+
+апреля
+
+Среда, в 19:00 по Москве
+
+ [![](https://www.google.com/s2/favicons?domain=us06web.zoom.us&sz=32)https://us06web.zoom.us/j/82329311487?pwd=EjUlELaZs97b6JSOGeyA9qZSlvACHq.1](https://us06web.zoom.us/j/82329311487?pwd=EjUlELaZs97b6JSOGeyA9qZSlvACHq.1) Пароль: vernidolor
+
+Добавить в   [Apple Календарь](/misc/calendar/ical?title=%5BAMA%5D%20%F0%9F%8E%A4%20%D0%9A%D0%B0%D1%80%D1%8C%D0%B5%D1%80%D0%BD%D1%8B%D0%B5%20%D0%BF%D0%B5%D1%80%D0%B5%D1%85%D0%BE%D0%B4%D1%8B&date=2026-04-22T19%3A00%3A00&timezone=Europe/Moscow&location=https%3A//us06web.zoom.us/j/82329311487%3Fpwd%3DEjUlELaZs97b6JSOGeyA9qZSlvACHq.1%20%D0%9F%D0%B0%D1%80%D0%BE%D0%BB%D1%8C%3A%20vernidolor&url=https://vas3k.club/event/31418/)  [Google Календарь](/misc/calendar/google?title=%5BAMA%5D%20%F0%9F%8E%A4%20%D0%9A%D0%B0%D1%80%D1%8C%D0%B5%D1%80%D0%BD%D1%8B%D0%B5%20%D0%BF%D0%B5%D1%80%D0%B5%D1%85%D0%BE%D0%B4%D1%8B&date=2026-04-22T19%3A00%3A00&timezone=Europe/Moscow&location=https%3A//us06web.zoom.us/j/82329311487%3Fpwd%3DEjUlELaZs97b6JSOGeyA9qZSlvACHq.1%20%D0%9F%D0%B0%D1%80%D0%BE%D0%BB%D1%8C%3A%20vernidolor&url=https://vas3k.club/event/31418/)
+
+Я приду 
+
+62 человека хотят прийти 👉
+
+
+[16](upvoteUrl)
+
+[Карьерные переходы](#Karernye-perekhody)
+-----------------------------------------
+
+_Докладчик/ца_: Юлия Белозерова [@Covectb\_cobaka](/user/Covectb_cobaka/) и Светлана Моисеева [@moislana](/user/moislana/)  
+_Модератор_: Антон [@Yaanton](/user/Yaanton/)  
+
+![](https://i.vas3k.club/37b6bd72497a535e04e8f9525998f7220ed3bd85de737b78f4d2c093be4f466a.jpg)
+
+  
+Не знаешь кем хочешь стать, когда вырастешь? Непонятно, с чего начать менять карьеру? Всё надоело? Выход есть!
+
+Приходите, если вы в процессе смены профессии или об этом задумываетесь. Если у вас много опыта в смене карьеры или тема как-то связана с вашей деятельностью, тоже приходите!
+
+### [Что будет:](#Chto-budet)
+
+— Разбор 6 вариантов как смотреть на карьерную проблематику и примеры сценариев: от разруливания отдельных симптомов до крупных научных теорий;  
+— Возможность системно продиагностировать своё состояние в контексте карьерных переходов и нащупать возможные действия;  
+— Взгляд на карьерные переживания со стороны психотерапии/психологии;  
+— Перспектива от карьерного коуча с бэкграундом в HR;  
+— Ответы на вопросы и открытая дискуссия;  
+— Запись официальной части, но не вопросов.
+
+### [Докладчики: Юля и Света](#Dokladchiki-Iulia-i-Sveta)
+
+Мы мыслим в разных подходах, но много работаем с карьерными сложностями у наших клиентов. И мы обе успешно сменили профессию!
+
+**Юля**: Спустя 15 лет в проектном управлении выкатилась из ИТ чтобы стать гештальт-терапевтом. Учится в аспирантуре про карьеру и терапию. Написала 20+ постов в Клуб.
+
+**Света**: После 7 лет в HR в адаптации и обучении ушла из найма в никуда. За 6 лет в эмиграции незаметно стала человеком “А как переехать? Посмотри моё резюме?” и теперь как коуч (по стандартам ICF) помогает искать работу и искать в ней себя.
+
+Контекст встречи и основная задумка АМА касаются в первую очередь горизонтальных карьерных сложностей и особенно поиска новой профессии. Например, темы выкатывания из ИТ. В то же время, мы будем рады нанести непоправимую пользу в соседних темах. Задавайте вопросы под анонсом и вероятно, что мы вместе перепридумаем около-карьерную АМА-встречу на ходу! =)
+
+**Формат** первые 45 минут рассказываем и отвечаем на вопросы под анонсом, и дальше off record и вопросы из зала.
+
+**Запись** официальной части будет
+
+* * *
+
+**Хотите рассказать про свой опыт?**  
+[![](https://www.google.com/s2/favicons?domain=docs.google.com&sz=32)Записывайтесь в табличку тут](https://docs.google.com/spreadsheets/d/1c2q9dl--fOfHpQGtol5qdka4TedbnXub8kgkV4yf1l0/edit#gid=0)
+
+**Хотите следить за новостями АМА и новыми выпусками?**  
+[![](https://www.google.com/s2/favicons?domain=t.me&sz=32)Присоединяйтесь к чату](https://t.me/joinchat/BwVzYhSIN8GDy1_uUSU4Fg).
+
+[Прошлые дискуссии](#Proshlye-diskussii)
+----------------------------------------
+
+Прошлые дискуссии можно посмотреть:
+
+*   в [![](https://www.google.com/s2/favicons?domain=docs.google.com&sz=32)табличке](https://docs.google.com/spreadsheets/d/1c2q9dl--fOfHpQGtol5qdka4TedbnXub8kgkV4yf1l0/edit#gid=0),
+*   на [![](https://www.google.com/s2/favicons?domain=www.youtube.com&sz=32)канале клуба в ютюбе](https://www.youtube.com/channel/UCT2OIXoOGF1z9xWXiY00nkQ)
+*   в [![](https://www.google.com/s2/favicons?domain=vas3kama.mave.digital&sz=32)виде подкаста](https://vas3kama.mave.digital/)
+*   или по [лейблу АМА в левой панели](https://vas3k.club/label/ama/)
+
+💎
+
+💎 Вы нашли коллекционный тег!
+
+[🎙 AMA](/profile/tag/ama/toggle/)
+
+Если на него клацнуть — он добавится в ваш профиль. Так все будут видеть, что вы интересуетесь данной темой, а вы начнёте получать уведомления о будущих постах с таким же тегом.
+
+![Аватар Антон Яценко](https://i.vas3k.club/9a2dab34999b7453f795da60ddf871db3cf1fd15ad496a78d0af5bf58fe62216.jpg)
+
++ Подписаться
+
+[Антон Яценко @Yaanton](/user/Yaanton/)
+
+Разнорабочий — —
+
+📍Ереван, Армения
+
+✍️ @antononair — пишите по любым вопросам :)
+
+[11 комментариев 👇](#comments)
+
+по крутости по свежести по порядку
+
+ подписка на комментарии
+
+[![Аватар Антон Яценко](https://i.vas3k.club/9a2dab34999b7453f795da60ddf871db3cf1fd15ad496a78d0af5bf58fe62216.jpg)](/user/Yaanton/)
+
+[Антон Яценко](/user/Yaanton/) Разнорабочий автор [](/comment/eb7761d2-c605-4e16-b72c-b50c09debbd5/badge/) [23 апреля в 07:59](/event/31418/#comment-eb7761d2-c605-4e16-b72c-b50c09debbd5)
+
+[10](/comment/eb7761d2-c605-4e16-b72c-b50c09debbd5/upvote/)
+
+Видеозапись встречи  
+
+[![](https://www.google.com/s2/favicons?domain=drive.google.com&sz=32)Презентация](https://drive.google.com/file/d/1kbNXh09eSToZBSxfUsJYpMCOFZFtmP9C/view?usp=sharing)
+
+1.  [![](https://www.google.com/s2/favicons?domain=drive.google.com&sz=32)Статьи про основные теории](https://drive.google.com/drive/folders/1bbGUWkhk4_Q5dVDa8NW1cuRnBiWRrR2M?usp=sharing)
+2.  [![](https://www.google.com/s2/favicons?domain=drive.google.com&sz=32)Статьи про inaction & indecision](https://drive.google.com/drive/folders/184j6N7Zgmepg5_XKj_3sLip-ZD2m1-b4?usp=sharing) С пометкой (!) это must-reads если хочется знать больше!
+
+ ответить
+
+[![Аватар Марина Серпинская](https://i.vas3k.club/4cb00b7ddf6ae97b685c0e4ad47a77e986981068e928317e4940dcb41e078fa3.jpg)](/user/marinesqu/) [Марина Серпинская](/user/marinesqu/) [23 апреля в 09:37](#comment-41bbfc29-47ae-4015-923a-4740649abdad)
+
+[](/comment/41bbfc29-47ae-4015-923a-4740649abdad/badge/)
+
+[0](/comment/41bbfc29-47ae-4015-923a-4740649abdad/upvote/)
+
+[@Yaanton](/user/Yaanton/), спасибо! 1. и 2. ссылки одинаковые - это так задумано?
+
+  Развернуть 1 комментарий
+
+ ответить
+
+[![Аватар Антон Яценко](https://i.vas3k.club/9a2dab34999b7453f795da60ddf871db3cf1fd15ad496a78d0af5bf58fe62216.jpg)](/user/Yaanton/) [Антон Яценко](/user/Yaanton/) [23 апреля в 09:41](#comment-b9b5ca84-b129-4dbb-a47c-5cdda2e28b01) автор
+
+[](/comment/b9b5ca84-b129-4dbb-a47c-5cdda2e28b01/badge/)
+
+[1](/comment/b9b5ca84-b129-4dbb-a47c-5cdda2e28b01/upvote/)
+
+[@marinesqu](/user/marinesqu/), поправил ссылки! Спасибо
+
+  Развернуть 1 комментарий
+
+ ответить
+
+[![Аватар Yulia Belozerova](https://i.vas3k.club/489fbb4b717cd815fd505c385a88457cc841fbf0d925f47f338e277908f78c8b.jpg)](/user/Covectb_cobaka/) [Yulia Belozerova](/user/Covectb_cobaka/) [24 апреля в 12:07](#comment-1ad9a0e1-e73e-459b-9bdc-679fb5025667)
+
+[](/comment/1ad9a0e1-e73e-459b-9bdc-679fb5025667/badge/)
+
+[3](/comment/1ad9a0e1-e73e-459b-9bdc-679fb5025667/upvote/)
+
+[@Yaanton](/user/Yaanton/), сюда же добавлю [![](https://www.google.com/s2/favicons?domain=forms.gle&sz=32)ссылку](https://forms.gle/rSzkMKdgBpz2fHFQ9) чтобы вписаться в исследование про влияение терапии на карьеру, для тех, кто хочет помочь с диссером)
+
+  Развернуть 1 комментарий
+
+ ответить
+
+[![Аватар Vasily](https://i.vas3k.club/969204cd7d4dcef0d506d4150ac31b7bf69594db64d1c5216c0e809d6ba28c9c.jpg)](/user/Gordon/)
+
+[Vasily](/user/Gordon/) Senior Software Engineer [](/comment/e15ec7f3-1114-4368-b6a4-1131aad7d4b0/badge/) [22 апреля в 06:55](/event/31418/#comment-e15ec7f3-1114-4368-b6a4-1131aad7d4b0)
+
+[7](/comment/e15ec7f3-1114-4368-b6a4-1131aad7d4b0/upvote/)
+
+Интересные тренды 2026го года
+
+Когда-то в 2021ом тоже хотел изучить пару новых профессий на всякий случай, потом были миграции, все эти переезды в разные страны и другие языки
+
+Зато сейчас можно немного доучить испанский и на правах тренда пойти учиться на сварщика в Испании
+
+  Развернуть 1 комментарий
+
+ ответить
+
+[![Аватар Антон Яценко](https://i.vas3k.club/9a2dab34999b7453f795da60ddf871db3cf1fd15ad496a78d0af5bf58fe62216.jpg)](/user/Yaanton/) [Антон Яценко](/user/Yaanton/) [22 апреля в 06:56](#comment-965d2542-46a8-4107-a2e8-5dd6b42f786a) автор
+
+[](/comment/965d2542-46a8-4107-a2e8-5dd6b42f786a/badge/)
+
+[0](/comment/965d2542-46a8-4107-a2e8-5dd6b42f786a/upvote/)
+
+[@Gordon](/user/Gordon/), даааа. Мне кажется сейчас в моём пузыре общения многие хотят куда-то уйти из АйТи, или сменить профессию в целом на что-то более «прикладное»
+
+  Развернуть 1 комментарий
+
+ ответить
+
+[![Аватар Agafonova Natasha](https://i.vas3k.club/c6616a4adf51caf9946beddedbd3990525f60edee96927b9909db41fef1ef058.jpg)](/user/agafonovanatasha/)
+
+[Agafonova Natasha](/user/agafonovanatasha/) Считаю резервы МСФО в банке [](/comment/d65e094c-5114-49e0-97a1-2bc0930b92c2/badge/) [22 апреля в 15:10](/event/31418/#comment-d65e094c-5114-49e0-97a1-2bc0930b92c2)
+
+[4](/comment/d65e094c-5114-49e0-97a1-2bc0930b92c2/upvote/)
+
+Привет. Проблема скорее актуальна для меня, но может быть полезна и другим. Три раза меняла работу, запрос при поиске нормированный рабочий график (в мыслях остутствие переработок), но это остается на бумаге - в ТД, переработки только растут. Даже к психологу ходила с этим вопром 🤣, не помогло. В общем, как не менять одну херню (работу с переработками), на другую херню (работу с ещё большими переработками)?
+
+  Развернуть 1 комментарий
+
+ ответить
+
+[![Аватар Sergei Ruzki](https://i.vas3k.club/9113ca7acdc23859dbc3137d5d35ba3d3e3c09a3a7ab671d0deeda85d376c39b.jpg)](/user/sergeiruzki/)
+
+[Sergei Ruzki](/user/sergeiruzki/) Python Developer, ERP Architect, Odoo User [](/comment/8636689e-b86b-472d-85d4-7c0d4c679aa3/badge/) [22 апреля в 12:27](/event/31418/#comment-8636689e-b86b-472d-85d4-7c0d4c679aa3)
+
+[0](/comment/8636689e-b86b-472d-85d4-7c0d4c679aa3/upvote/)
+
+Я, конечно, не приду (хотя было бы интересно, но никак). Разберите, что делать с такими кейсами как мой (в посте у [@Covectb\_cobaka](/user/Covectb_cobaka/) соответственно)
+
+  Развернуть 1 комментарий
+
+ ответить
+
+[![Аватар Антон Яценко](https://i.vas3k.club/9a2dab34999b7453f795da60ddf871db3cf1fd15ad496a78d0af5bf58fe62216.jpg)](/user/Yaanton/) [Антон Яценко](/user/Yaanton/) [22 апреля в 12:29](#comment-d0ba72b3-1e8d-4ed8-b91d-8836e486314d) автор
+
+[](/comment/d0ba72b3-1e8d-4ed8-b91d-8836e486314d/badge/)
+
+[0](/comment/d0ba72b3-1e8d-4ed8-b91d-8836e486314d/upvote/)
+
+[@sergeiruzki](/user/sergeiruzki/), ты про этот кейс:
+
+_Штош... расскажу, как стратегический план стокнулся с реальностью.  
+В 2020 году я составил себе примерно такой же план и пошёл радостно на первую трехдневку, сложив с себя полномочия "СТО" и перейдя на прото дева в свободном плавании с парой клиентов на ближайшее время.  
+Но 2020й этот начинался в Беларуси.  
+И тот самый 2020й сломал план к херам - пришлось заводить трактор и увозить себя с семьёй в ближайшее закордонье.  
+Это потянуло за собой полный отвал времени, которое я давал себе на переход на доходы от практики. Требования к подушке возрасли кратно. "Немножечко" шить для поддержания штанов в своем жилье столкнулись с европейскими ценами на всякое + ипотека на многомного лет.  
+Отсутствие бабушек под рукой тоже внесло свою лепту в доступное для перехода время.  
+Итого, 3 года обучения были очень не лишними, но калькуляция никак не складывается. Нужно кушац и жиц мне и моей семье.  
+Мечты об выкатывании отложены на неопределенный срок.  
+Ну и к тому времени, думаю, актуальным останется только самогоноварение._
+
+  Развернуть 1 комментарий
+
+ ответить
+
+[![Аватар Sergei Ruzki](https://i.vas3k.club/9113ca7acdc23859dbc3137d5d35ba3d3e3c09a3a7ab671d0deeda85d376c39b.jpg)](/user/sergeiruzki/) [Sergei Ruzki](/user/sergeiruzki/) [22 апреля в 12:31](#comment-6c85a978-57a9-4490-a1aa-a8e848264c3a)
+
+[](/comment/6c85a978-57a9-4490-a1aa-a8e848264c3a/badge/)
+
+[0](/comment/6c85a978-57a9-4490-a1aa-a8e848264c3a/upvote/)
+
+[@Yaanton](/user/Yaanton/), ага  
+это риск и с этим тоже нужно быьт готовым как-то справляться
+
+  Развернуть 1 комментарий
+
+ ответить
+
+[![Аватар Антон Яценко](https://i.vas3k.club/9a2dab34999b7453f795da60ddf871db3cf1fd15ad496a78d0af5bf58fe62216.jpg)](/user/Yaanton/) [Антон Яценко](/user/Yaanton/) [22 апреля в 12:32](#comment-009707bb-5e82-4ee0-92da-273ce6c0d291) автор
+
+[](/comment/009707bb-5e82-4ee0-92da-273ce6c0d291/badge/)
+
+[1](/comment/009707bb-5e82-4ee0-92da-273ce6c0d291/upvote/)
+
+[@sergeiruzki](/user/sergeiruzki/), Попробуем обсудить сегодня
+
+  Развернуть 1 комментарий
+
+ ответить
+
+
