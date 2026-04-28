@@ -111,7 +111,6 @@ _Модератор_: Антон [@Yaanton](/user/Yaanton/)
 
 Если на него клацнуть — он добавится в ваш профиль. Так все будут видеть, что вы интересуетесь данной темой, а вы начнёте получать уведомления о будущих постах с таким же тегом.
 
-![Аватар Антон Яценко](https://i.vas3k.club/9a2dab34999b7453f795da60ddf871db3cf1fd15ad496a78d0af5bf58fe62216.jpg)
 
 + Подписаться
 
@@ -129,7 +128,6 @@ _Модератор_: Антон [@Yaanton](/user/Yaanton/)
 
  подписка на комментарии
 
-[![Аватар Антон Яценко](https://i.vas3k.club/9a2dab34999b7453f795da60ddf871db3cf1fd15ad496a78d0af5bf58fe62216.jpg)](/user/Yaanton/)
 
 [Антон Яценко](/user/Yaanton/) Разнорабочий автор [](/comment/eb7761d2-c605-4e16-b72c-b50c09debbd5/badge/) [23 апреля в 07:59](/event/31418/#comment-eb7761d2-c605-4e16-b72c-b50c09debbd5)
 
@@ -144,7 +142,7 @@ _Модератор_: Антон [@Yaanton](/user/Yaanton/)
 
  ответить
 
-[![Аватар Марина Серпинская](https://i.vas3k.club/4cb00b7ddf6ae97b685c0e4ad47a77e986981068e928317e4940dcb41e078fa3.jpg)](/user/marinesqu/) [Марина Серпинская](/user/marinesqu/) [23 апреля в 09:37](#comment-41bbfc29-47ae-4015-923a-4740649abdad)
+
 
 [](/comment/41bbfc29-47ae-4015-923a-4740649abdad/badge/)
 
@@ -156,7 +154,7 @@ _Модератор_: Антон [@Yaanton](/user/Yaanton/)
 
  ответить
 
-[![Аватар Антон Яценко](https://i.vas3k.club/9a2dab34999b7453f795da60ddf871db3cf1fd15ad496a78d0af5bf58fe62216.jpg)](/user/Yaanton/) [Антон Яценко](/user/Yaanton/) [23 апреля в 09:41](#comment-b9b5ca84-b129-4dbb-a47c-5cdda2e28b01) автор
+
 
 [](/comment/b9b5ca84-b129-4dbb-a47c-5cdda2e28b01/badge/)
 
@@ -168,7 +166,7 @@ _Модератор_: Антон [@Yaanton](/user/Yaanton/)
 
  ответить
 
-[![Аватар Yulia Belozerova](https://i.vas3k.club/489fbb4b717cd815fd505c385a88457cc841fbf0d925f47f338e277908f78c8b.jpg)](/user/Covectb_cobaka/) [Yulia Belozerova](/user/Covectb_cobaka/) [24 апреля в 12:07](#comment-1ad9a0e1-e73e-459b-9bdc-679fb5025667)
+
 
 [](/comment/1ad9a0e1-e73e-459b-9bdc-679fb5025667/badge/)
 
@@ -180,7 +178,6 @@ _Модератор_: Антон [@Yaanton](/user/Yaanton/)
 
  ответить
 
-[![Аватар Vasily](https://i.vas3k.club/969204cd7d4dcef0d506d4150ac31b7bf69594db64d1c5216c0e809d6ba28c9c.jpg)](/user/Gordon/)
 
 [Vasily](/user/Gordon/) Senior Software Engineer [](/comment/e15ec7f3-1114-4368-b6a4-1131aad7d4b0/badge/) [22 апреля в 06:55](/event/31418/#comment-e15ec7f3-1114-4368-b6a4-1131aad7d4b0)
 
@@ -196,7 +193,7 @@ _Модератор_: Антон [@Yaanton](/user/Yaanton/)
 
  ответить
 
-[![Аватар Антон Яценко](https://i.vas3k.club/9a2dab34999b7453f795da60ddf871db3cf1fd15ad496a78d0af5bf58fe62216.jpg)](/user/Yaanton/) [Антон Яценко](/user/Yaanton/) [22 апреля в 06:56](#comment-965d2542-46a8-4107-a2e8-5dd6b42f786a) автор
+
 
 [](/comment/965d2542-46a8-4107-a2e8-5dd6b42f786a/badge/)
 
@@ -220,7 +217,6 @@ _Модератор_: Антон [@Yaanton](/user/Yaanton/)
 
  ответить
 
-[![Аватар Sergei Ruzki](https://i.vas3k.club/9113ca7acdc23859dbc3137d5d35ba3d3e3c09a3a7ab671d0deeda85d376c39b.jpg)](/user/sergeiruzki/)
 
 [Sergei Ruzki](/user/sergeiruzki/) Python Developer, ERP Architect, Odoo User [](/comment/8636689e-b86b-472d-85d4-7c0d4c679aa3/badge/) [22 апреля в 12:27](/event/31418/#comment-8636689e-b86b-472d-85d4-7c0d4c679aa3)
 
@@ -232,7 +228,7 @@ _Модератор_: Антон [@Yaanton](/user/Yaanton/)
 
  ответить
 
-[![Аватар Антон Яценко](https://i.vas3k.club/9a2dab34999b7453f795da60ddf871db3cf1fd15ad496a78d0af5bf58fe62216.jpg)](/user/Yaanton/) [Антон Яценко](/user/Yaanton/) [22 апреля в 12:29](#comment-d0ba72b3-1e8d-4ed8-b91d-8836e486314d) автор
+
 
 [](/comment/d0ba72b3-1e8d-4ed8-b91d-8836e486314d/badge/)
 
@@ -254,7 +250,7 @@ _Штош... расскажу, как стратегический план ст
 
  ответить
 
-[![Аватар Sergei Ruzki](https://i.vas3k.club/9113ca7acdc23859dbc3137d5d35ba3d3e3c09a3a7ab671d0deeda85d376c39b.jpg)](/user/sergeiruzki/) [Sergei Ruzki](/user/sergeiruzki/) [22 апреля в 12:31](#comment-6c85a978-57a9-4490-a1aa-a8e848264c3a)
+
 
 [](/comment/6c85a978-57a9-4490-a1aa-a8e848264c3a/badge/)
 
