@@ -14,8 +14,8 @@ tags:
 
 - cc-connect передаёт **полный текст** пересланного поста — не обрезанный
 - Изображения сохраняются локально в `.cc-connect/attachments/` и путь приходит в сообщении
-- Metadata Telegram (channel_username, message_id) **не передаётся** — только текст и подпись канала в конце
-- `channel_username` парсится из подписи вида `@channel_name` в конце поста
+- Metadata Telegram (channel_username, message_id) **не передаётся** — только текст
+- `channel_username` в конце поста — это привычка конкретных авторов, не стандарт. Парсинг ненадёжен, не использовать
 - Никакого внешнего fetching не нужно — весь контент уже есть
 
 ---
@@ -28,14 +28,14 @@ tags:
 .venv/bin/python skills/capture_tg_post.py \
   --text "текст поста" \
   --channel-title "Название канала" \
-  --channel-username "channel_username" \   # опционально, парсится из текста
+  --channel-username "channel_username" \   # опционально, только если известен
   --image-path "/srv/.../.cc-connect/attachments/img_xxx.jpg" \  # опционально
   --comment "мой комментарий"               # опционально
 ```
 
 ### Логика
 
-1. Принять аргументы; если `--channel-username` не передан — попробовать распарсить `@username` из конца `--text`
+1. Принять аргументы; `--channel-username` опционален — если не передан, поле `source` в заметке остаётся пустым
 2. Сформировать slug из первых слов текста
 3. Если передан `--image-path` — скопировать файл в `Attachments/{today}-{slug}.jpg` и вставить в заметку как `![[...]]`
 4. Создать `Inbox/{today} - post - {slug[:80]}.md`
