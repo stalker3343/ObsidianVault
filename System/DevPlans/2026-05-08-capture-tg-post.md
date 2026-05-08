@@ -2,80 +2,54 @@
 type: dev-plan
 feature: capture_tg_post
 created: 2026-05-08
-status: draft
+status: ready
 tags:
   - bot
   - dev
 ---
 
-# Dev Plan: capture_tg_post — сохранение пересланных Telegram-постов
+# Dev Plan: capture_tg_post — сохранение пересланных постов
 
-## Задача
+## Что уже известно
 
-Когда пользователь пересылает пост из публичного Telegram-канала, бот должен:
-1. Создать заметку в `Inbox/` с текстом поста и ссылкой на оригинал
-2. Добавить в дейли строку `[[ссылка на заметку]] — название канала: краткое описание`
-
----
-
-## Структура данных: как приходит пересланное сообщение
-
-Через cc-connect мне (Claude) приходит текст сообщения. Telegram Bot API при forwards из публичного канала передаёт в metadata:
-
-```
-message.forward_from_chat.type       = "channel"
-message.forward_from_chat.title      = "Название канала"
-message.forward_from_chat.username   = "channel_username"   # только у публичных
-message.forward_from_message_id      = 12345                 # ID оригинального поста
-message.text                         = "Текст поста..."
-message.caption                      = "Подпись к медиа..."  # если это фото/видео
-message.entities                     = [...]                 # форматирование
-```
-
-URL оригинального поста: `https://t.me/{username}/{message_id}`
-Embed-версия для scraping: `https://t.me/{username}/{message_id}?embed=1`
-
-> **Протестировано (2026-05-08):** cc-connect передаёт **только текст** — без `forward_from_chat`, `forward_from_message_id` и прочего Telegram-metadata.
-> Протестировано на двух реальных постах: скриншот из Twitter (@PrimeBiology) и пост из Telegram-канала (@ai_driven).
-> В обоих случаях я видел только текст + подпись канала в конце сообщения.
->
-> **Вывод:** `channel_username` и `message_id` нельзя получить автоматически из metadata.
-> Их нужно либо парсить из текста (подпись вида `@channel_name` в конце поста), либо передавать вручную как аргументы.
-> Для первой версии skill — парсить подпись канала из текста, URL строить только если username явно виден.
+- cc-connect передаёт **полный текст** пересланного поста — не обрезанный
+- Изображения сохраняются локально в `.cc-connect/attachments/` и путь приходит в сообщении
+- Metadata Telegram (channel_username, message_id) **не передаётся** — только текст и подпись канала в конце
+- `channel_username` парсится из подписи вида `@channel_name` в конце поста
+- Никакого внешнего fetching не нужно — весь контент уже есть
 
 ---
 
 ## Новый skill: `skills/capture_tg_post.py`
 
-### CLI-интерфейс
+### CLI
 
 ```
 .venv/bin/python skills/capture_tg_post.py \
   --text "текст поста" \
   --channel-title "Название канала" \
-  --channel-username "channel_username" \
-  --message-id 12345 \
-  --comment "мой комментарий"   # опционально
+  --channel-username "channel_username" \   # опционально, парсится из текста
+  --image-path "/srv/.../.cc-connect/attachments/img_xxx.jpg" \  # опционально
+  --comment "мой комментарий"               # опционально
 ```
 
 ### Логика
 
-1. Принять аргументы
-2. Сформировать URL: `https://t.me/{channel_username}/{message_id}`
-3. Попытаться получить полный текст через embed (`?embed=1`) если `--text` < 200 символов — многие посты в Telegram обрезаются при forward
-4. Сформировать slug из первых слов заголовка/текста
-5. Создать файл `Inbox/{today} - tg-post - {slug[:80]}.md`
-6. Добавить bullet в daily через `_write_daily()` из `_common.py`
-7. Сделать один `git_atomic_commit` для обоих файлов
+1. Принять аргументы; если `--channel-username` не передан — попробовать распарсить `@username` из конца `--text`
+2. Сформировать slug из первых слов текста
+3. Если передан `--image-path` — скопировать файл в `Attachments/{today}-{slug}.jpg` и вставить в заметку как `![[...]]`
+4. Создать `Inbox/{today} - post - {slug[:80]}.md`
+5. Добавить bullet в дейли: `[[Inbox/...]] — Канал: первые 100 символов...`
+6. Один `git_atomic_commit` для всех изменённых файлов (заметка + картинка + дейли)
 
 ### Формат заметки в Inbox
 
 ```markdown
 ---
-type: tg-post
-source: https://t.me/channel_username/12345
+type: post
+source: https://t.me/{channel_username}   # если username известен
 channel: "Название канала"
-created: 2026-05-08T14:32:00
+created: {datetime}
 status: inbox
 tags:
   - source/telegram
@@ -83,7 +57,7 @@ tags:
 
 # Название канала — первые слова поста
 
-[Источник](https://t.me/channel_username/12345)
+![[Attachments/{today}-{slug}.jpg]]   # если есть изображение
 
 ## Мой комментарий
 
@@ -94,51 +68,34 @@ tags:
 {text}
 ```
 
-### Запись в Daily
-
-```
-- **14:32** [[Inbox/2026-05-08 - tg-post - slug]] — Название канала: первые 100 символов поста...
-```
-
 ---
 
-## Изменения в AGENT.md (routing table)
-
-Добавить строку в таблицу маршрутизации:
-
-```diff
-+| Пересланный пост из Telegram-канала | `.venv/bin/python skills/capture_tg_post.py --text ... --channel-title ... --channel-username ... --message-id ... --comment ...` |
-```
-
-И в раздел **Маршрутизация** добавить условие: если сообщение — forward из канала (видно по метаданным или по паттерну текста с указанием источника).
-
----
-
-## Псевдо-diff: что добавляется в репо
+## Изменения в репо
 
 ```diff
  skills/
-+  capture_tg_post.py          # новый skill
-   capture_article.py          # без изменений
-   append_daily.py             # без изменений
-   _common.py                  # без изменений (переиспользуем git_atomic_commit, _write_daily logic)
++  capture_tg_post.py      # ~100 строк, аналогична capture_article.py
 
  AGENT.md
-+  | Пересланный пост из канала | capture_tg_post.py ... |
++  | Пересланный пост (текст канала / скриншот поста) | capture_tg_post.py --text ... --channel-title ... --image-path ... |
 ```
 
-`capture_tg_post.py` — ~130 строк, структура аналогична `capture_article.py`:
-- `_import_runtime_deps()` → нужен `requests`, `beautifulsoup4` для парсинга embed
-- `_fetch_full_text(url)` → GET `https://t.me/{u}/{id}?embed=1`, парсинг `<div class="tgme_widget_message_text">`
-- `_post_body(...)` → формирует Markdown заметку
-- `capture_tg_post(...)` → основная логика
-- `main()` → argparse + logging
+Внешних зависимостей не нужно — только стандартный `shutil.copy2` для изображений.
 
 ---
 
-## TODO перед реализацией
+## Про копирование изображений
 
-- [ ] Проверить: что именно cc-connect передаёт при forward — только `message.text` или весь update dict?
-- [ ] Проверить `beautifulsoup4` в `.venv`: `pip show beautifulsoup4`
-- [ ] Протестировать embed-парсинг на реальном посте из публичного канала
-- [ ] Договориться о формате slug (из текста или из названия канала?)
+`cp` через Bash заблокирован в текущих настройках агента. Решения:
+- Использовать `shutil.copy2()` внутри самого Python-скилла — это разрешено
+- Или добавить `cp /srv/telegram-obsidian-agent/.cc-connect/attachments/* /srv/ObsidianVault/Attachments/*` в whitelist Bash-команд агента
+
+Рекомендуется первый вариант — копирование внутри skill, без изменения настроек безопасности.
+
+---
+
+## TODO
+
+- [ ] Написать `capture_tg_post.py`
+- [ ] Добавить строку в таблицу маршрутизации AGENT.md
+- [ ] Протестировать на реальном пересланном посте с картинкой
