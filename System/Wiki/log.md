@@ -4,6 +4,15 @@ wiki_page: log
 
 # Wiki Log
 
+## [2026-05-09] ingest | Видео «Как выполнять 80% задач за 20% времени» — сигнал и шум
+Источники:
+- `Inbox/2026-04-27 - video - kak-vypolniat-80-zadach-za-20-vremeni-samyi-effektivnyi-metod.md`
+Фокус: концепция сигнал/шум, протокол 3 фаз, фильтр ценности для незнакомца.
+Обновлено:
+- [[topics/productivity]] — добавлен раздел «Сигнал и шум»
+- [[insights/decisions]] — добавлен протокол 3 фаз как эксперимент
+- [[insights/patterns]] — добавлен паттерн «Шум вместо сигнала»
+
 ## [2026-05-09] ingest | Telegram-пост «Мастера не падают с неба» — рефлексия как цикл
 Источники:
 - `Inbox/2026-05-09 - article - mastera-ne-padaiut-s-neba.md` (https://t.me/mastera_ne_padayut_s_neba/55)
