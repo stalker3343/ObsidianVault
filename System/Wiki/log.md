@@ -113,16 +113,16 @@ wiki_page: log
 Обновлено: [[entities/artyom]], [[entities/anya]], [[topics/relationships]], [[topics/health]], [[topics/productivity]], [[topics/learning]], [[topics/work-career]], [[topics/wedding]], [[topics/projects]], [[topics/finance]], [[insights/values]], [[insights/patterns]], [[index]].
 
 ## [2026-05-08] ingest | Ценности Черновик
-Источник: `D:\artem-new-pc\Дедаи 2026q2\Перепрошивка ценностей и реакций\Ценности Черновик.md`.
+Источник: `System/Wiki/raw/Ценности Черновик.md`.
 Обновлено: [[insights/values]], [[entities/artyom]], [[topics/health]], [[topics/relationships]], [[topics/work-career]], [[topics/projects]].
 
 ## [2026-05-08] ingest | Итоги ссоры Осуждение и Поддержка
-Источник: `D:\artem-new-pc\Дедаи 2026q2\Отношения с Аней\Итоги ссоры Осуждение и Поддержка.md`.
+Источник: `System/Wiki/raw/Итоги ссоры Осуждение и Поддержка.md`.
 Обновлено: [[entities/anya]], [[topics/relationships]], [[topics/wedding]], [[insights/patterns]], [[insights/values]].
 
 ## [2026-05-08] ingest | Статус проектов 2026Q2
 Источники:
-- `99. Архив/Проекты и инсайты 2026Q2 на 08-05-2026 - Статус проектов.csv`
+- `System/Wiki/raw/Проекты и инсайты 2026Q2 на 08-05-2026 - Статус проектов.csv`
 Фокус:
 - синтез общего текущего статуса проектов по всем 4 неделям из CSV
 - переносились только устойчивые статусы, блокеры и общие заметки, а не недельный raw-log
@@ -142,7 +142,7 @@ wiki_page: log
 - [ ] Как решать, какие проекты закрыть или поставить на стоп, чтобы карта проектов не раздувалась?
 
 ## [2026-05-08] init | Первое создание вики
-Источники: AGENT.md, Daily 2026-04-26 — 2026-05-08.
+Источники: `System/Wiki/raw/AGENT.md`, Daily 2026-04-26 — 2026-05-08.
 Создано 7 страниц: profile, people, health, habits, work, learning, insights, projects, preferences.
 
 ## [2026-05-08] lint | Wiki после статусов проектов
