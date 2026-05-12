@@ -94,8 +94,49 @@ tags:
 
 ---
 
+---
+
+## Вариант 2: capture по URL (`t.me`-ссылка)
+
+### Проблема
+
+Когда пользователь присылает только ссылку типа `https://t.me/artalog/1931` — `capture_article.py` возвращает `needs_manual_extraction`, потому что Telegram требует авторизацию/JS. Бот не может автоматически достать текст поста.
+
+### Решение
+
+Использовать Telegram Preview endpoint: `https://t.me/{channel}/{id}?embed=1` возвращает облегчённый HTML без авторизации. Trafilatura умеет его парсить.
+
+Добавить в `capture_article.py` (или отдельный `capture_tg_post.py`) детектор t.me-ссылок:
+
+```python
+import re
+
+def _is_tg_url(url: str) -> bool:
+    return bool(re.match(r"https?://t\.me/\w+/\d+", url))
+
+def _tg_embed_url(url: str) -> str:
+    return url.rstrip("/") + "?embed=1&mode=tme"
+```
+
+Если URL — Telegram-ссылка → подставить embed-URL для fetching, потом сохранить в Inbox + добавить `[[ссылку]]` с саммари в Daily (как `capture_tg_post.py` для пересланных постов).
+
+### Маршрутизация в AGENT.md
+
+```
+| t.me-ссылка на пост | capture_tg_post.py --url ... --comment ... |
+```
+
+### TODO
+
+- [ ] Проверить `https://t.me/artalog/1931?embed=1` вручную — отдаёт ли текст
+- [ ] Добавить детектор + embed-фетчинг в `capture_article.py` или новый `capture_tg_post.py`
+- [ ] Обновить маршрутизацию в AGENT.md
+
+---
+
 ## TODO
 
-- [ ] Написать `capture_tg_post.py`
+- [ ] Написать `capture_tg_post.py` (для пересланных постов с текстом)
 - [ ] Добавить строку в таблицу маршрутизации AGENT.md
 - [ ] Протестировать на реальном пересланном посте с картинкой
+- [ ] Реализовать Вариант 2 (capture по t.me URL)
