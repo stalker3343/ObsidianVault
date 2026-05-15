@@ -4,6 +4,53 @@ wiki_page: log
 
 # Wiki Log
 
+## [2026-05-15] query | Осанка, сколиоз и риск будущей боли/ограничений
+Прочитано:
+- [[topics/health]]
+- [[topics/projects]]
+- [[topics/questions]]
+- [[insights/values]]
+- [[insights/patterns]]
+- [[insights/decisions]]
+- [[entities/artyom]]
+- `Daily/2026-04-27.md` — `Daily/2026-05-15.md` выборочно по спине, осанке, животу, валике, тренировкам и здоровью
+- `System/Wiki/raw/Рефлексии 2026q1/**` выборочно по проекту спины, снимку, ортопеду и упражнениям
+- внешняя медицинская рамка: AAOS, Mayo Clinic, PM&R KnowledgeNow
+Ответ сохранён: да
+Создано:
+- [[topics/posture]]
+Обновлено:
+- [[topics/health]]
+- [[topics/projects]]
+- [[topics/questions]]
+- [[index]]
+Новые выводы:
+- У темы есть два слоя: медицинский риск по снимку/динамике/симптомам и управленческий риск "спина" как вязкий проект без метрик.
+- Выпирающий живот нельзя автоматически относить к спине: в логах есть отдельная линия пищеварения, поэтому нужна проверка постуральной и пищеварительной гипотез.
+
+## [2026-05-15] query | Raw-сбор для вещдока про AI и будущую занятость frontend-разработчика
+Прочитано:
+- [[entities/artyom]]
+- [[topics/work-career]]
+- [[topics/learning]]
+- [[topics/productivity]]
+- [[topics/projects]]
+- [[topics/sprint-planning]]
+- [[topics/finance]]
+- [[topics/questions]]
+- [[insights/patterns]]
+- [[insights/values]]
+- [[insights/decisions]]
+- `Daily/2026-04-27.md` — `Daily/2026-05-15.md` выборочно по AI/работе/карьере
+- `Inbox/*` выборочно по AI coding, LLM, валютной удалёнке, frontend и системному дизайну
+- `Projects/РСВ/*`
+- `D:\artem-new-pc\Дедаи 2026q2\РСВ\Материалы 1го урока.md`
+Ответ сохранён: да
+Создано:
+- `System/Wiki/raw/2026-05-15-ai-employability-frontend-veshdok-raw.md`
+Новые выводы:
+- "Как остаться востребованным в век AI" лучше держать не как вещдок-вопрос, а как скрытое решение; для РСВ нужны камерные эпизоды про AI-тревогу, курсы/Next Tick, LinkedIn/резюме или AI-бот как ловушку действия.
+
 ## [2026-05-14] ingest | Daily 2026-05-01, 2026-05-02, 2026-05-03, 2026-05-04, 2026-05-05, 2026-05-12
 Источники:
 - `Daily/2026-05-01.md`
