@@ -30,16 +30,17 @@ tags:
 | # | Секция | Источник | Статус |
 |---|---|---|---|
 | 1 | Дата, день недели | системное время | просто |
-| 2 | Погода | wttr.in (JSON API, без ключа) | нужно добавить |
-| 3 | Календарь на сегодня/завтра/послезавтра + ДР | `fetch_calendar.py` (переиспользовать) | есть |
-| 4 | Задачи Singularity: просроченные + сегодня | Singularity API (переиспользовать `_get_agenda_data`) | есть |
-| 5 | Выжимка вчера (Daily) | читать `Daily/YYYY-MM-DD.md`, брать секцию `## Capture` | нужно добавить |
-| 6 | Выжимка позавчера | то же | нужно добавить |
-| 7 | Последние 5 файлов Inbox | `os.listdir` + сортировка по mtime | нужно добавить |
-| 8 | Открытые Dev Plans | `glob System/DevPlans/*.md`, фильтр `status: idea\|in-progress` | нужно добавить |
-| 9 | Ключевые факты Wiki | читать `System/Wiki/entities/artyom.md` (первые N строк) | нужно добавить |
-| 10 | Git status vault | `git status --short` | нужно добавить |
-| 11 | **Маршрутизация и правила агента** | перенести из `AGENT.md` в шаблон брифа | **новое** |
+| 2 | **Фокус недели** | `fetch_weekly_focus.py` → `System/WeeklyFocus/YYYY-MM-DD.md` | нужно добавить |
+| 3 | Погода | wttr.in (JSON API, без ключа) | нужно добавить |
+| 4 | Календарь на сегодня/завтра/послезавтра + ДР | `fetch_calendar.py` (переиспользовать) | есть |
+| 5 | Задачи Singularity: просроченные + сегодня | Singularity API (переиспользовать `_get_agenda_data`) | есть |
+| 6 | Выжимка вчера (Daily) | читать `Daily/YYYY-MM-DD.md`, брать секцию `## Capture` | нужно добавить |
+| 7 | Выжимка позавчера | то же | нужно добавить |
+| 8 | Последние 5 файлов Inbox | `os.listdir` + сортировка по mtime | нужно добавить |
+| 9 | Открытые Dev Plans | `glob System/DevPlans/*.md`, фильтр `status: idea\|in-progress` | нужно добавить |
+| 10 | Ключевые факты Wiki | читать `System/Wiki/entities/artyom.md` (первые N строк) | нужно добавить |
+| 11 | Git status vault | `git status --short` | нужно добавить |
+| 12 | **Маршрутизация и правила агента** | перенести из `AGENT.md` в шаблон брифа | **новое** |
 
 ## Архитектура
 
@@ -69,20 +70,24 @@ GET https://wttr.in/Moscow?format=j1
 
 ## Шаги реализации
 
-1. Создать `skills/morning_brief.py` — собирает все секции, пишет файл
-2. Добавить погоду через `wttr.in` (httpx, уже есть в зависимостях MCP)
-3. Добавить секцию выжимки Daily (вчера + позавчера)
-4. Добавить секции Inbox, Dev Plans, Wiki snippet, git status
-5. **Перенести маршрутизацию и правила из `AGENT.md` в шаблон брифа** — как статическая секция в скрипте или отдельный файл-шаблон `System/Templates/agent-rules.md`
-6. **Сократить `AGENT.md` до ~10 строк**: запустить скрипт → прочитать бриф → следовать инструкциям из него
-7. Добавить cron-задачу на 05:55 МСК
-8. Добавить `Bash(skills/morning_brief.py)` в allow в `.claude/settings.json`
+1. Реализовать `skills/fetch_weekly_focus.py` (см. [[2026-05-18-fetch-weekly-focus-skill]])
+2. Создать `skills/morning_brief.py` — собирает все секции, пишет файл
+3. Добавить секцию **Фокус недели** через `fetch_weekly_focus.py` (первой после даты)
+4. Добавить погоду через `wttr.in` (httpx, уже есть в зависимостях MCP)
+5. Добавить секцию выжимки Daily (вчера + позавчера)
+6. Добавить секции Inbox, Dev Plans, Wiki snippet, git status
+7. **Перенести маршрутизацию и правила из `AGENT.md` в шаблон брифа** — как статическая секция в скрипте или отдельный файл-шаблон `System/Templates/agent-rules.md`
+8. **Сократить `AGENT.md` до ~10 строк**: запустить скрипт → прочитать бриф → следовать инструкциям из него
+9. Добавить cron-задачу на 05:55 МСК
+10. Добавить `Bash(skills/morning_brief.py)` в allow в `.claude/settings.json`
 
 ## Затронутые файлы
 
 | Файл | Изменение |
 |---|---|
 | `skills/morning_brief.py` | Новый скрипт |
+| `skills/fetch_weekly_focus.py` | Новый скрипт — см. [[2026-05-18-fetch-weekly-focus-skill]] |
+| `System/WeeklyFocus/YYYY-MM-DD.md` | Файл фокуса недели (создаётся вручную каждый понедельник) |
 | `AGENT.md` | Урезать до ~10 строк: запуск скрипта + чтение брифа |
 | `System/Templates/agent-rules.md` | Новый файл — маршрутизация и правила (бывший AGENT.md) |
 | `.claude/settings.json` | Добавить в allow |
