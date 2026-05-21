@@ -4,6 +4,34 @@ wiki_page: log
 
 # Wiki Log
 
+## [2026-05-21] ingest | YearCompass 2025/2026
+Источники:
+- `System/Wiki/raw/yearcompass_2025_2026.md`
+Фокус:
+- годовой синтез 2025 → 2026: события, достижения, испытания, незавершённые хвосты, образ года, цели и слово года
+- raw-анкета не дублировалась; перенесены устойчивые выводы, цели, паттерны, правила и открытые вопросы
+Обновлено:
+- [[entities/artyom]]
+- [[entities/anya]]
+- [[topics/relationships]]
+- [[topics/wedding]]
+- [[topics/health]]
+- [[topics/work-career]]
+- [[topics/learning]]
+- [[topics/productivity]]
+- [[topics/projects]]
+- [[topics/finance]]
+- [[topics/questions]]
+- [[insights/values]]
+- [[insights/patterns]]
+- [[insights/decisions]]
+- [[index]]
+Создано:
+- ничего
+Открытые вопросы:
+- [ ] Какие источники энергии и восстановления реально работают для Артёма в 2026?
+- [ ] Какие способы регулярно баловать/награждать себя не вредят здоровью и не превращаются в компенсационный дофамин?
+
 ## [2026-05-21] ingest | Persona Navigator AMTex
 Источники:
 - `System/Wiki/raw/persona-navigator-amtex/summary.md`
