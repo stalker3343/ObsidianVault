@@ -4,6 +4,27 @@ wiki_page: log
 
 # Wiki Log
 
+## [2026-05-21] ingest | Persona Navigator AMTex
+Источники:
+- `System/Wiki/raw/persona-navigator-amtex/summary.md`
+- `System/Wiki/raw/persona-navigator-amtex/results.md`
+Фокус:
+- перенесён синтез по рабочим ценностям и устойчивым предпочтениям, raw-результаты не дублировались
+- главные темы: аналитика, планирование, ответственность, автономия, баланс, прагматичный социальный стиль, лидерский опыт и уязвимость быстрых решений под давлением
+Обновлено:
+- [[entities/artyom]]
+- [[insights/values]]
+- [[insights/patterns]]
+- [[insights/decisions]]
+- [[topics/work-career]]
+- [[topics/productivity]]
+- [[topics/relationships]]
+- [[index]]
+Создано:
+- ничего
+Открытые вопросы:
+- [ ] Какие рабочие ситуации чаще всего требуют быстрых решений под давлением, и какой протокол нужен для каждой?
+
 ## [2026-05-18] query | Проверка действий «что буду делать по-другому» после недели
 Прочитано:
 - [[topics/productivity]]
