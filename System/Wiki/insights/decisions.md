@@ -1,7 +1,7 @@
 ---
 wiki_page: decisions
 type: insight
-updated: 2026-05-21
+updated: 2026-05-22
 
 ---
 
@@ -9,7 +9,7 @@ updated: 2026-05-21
 
 Принятые решения, рабочие правила и эксперименты. Это не вечные истины: если правило перестало работать, помечай как `retired` и объясняй почему.
 
-→ Связано с: [[entities/artyom]], [[topics/productivity]], [[topics/health]], [[topics/relationships]], [[topics/desires]], [[insights/values]], [[topics/sprint-planning]]
+→ Связано с: [[entities/artyom]], [[topics/productivity]], [[topics/health]], [[topics/relationships]], [[topics/desires]], [[insights/values]], [[topics/sprint-planning]], [[topics/neuroprofile]]
 
 ## Продуктивность
 
@@ -122,6 +122,12 @@ updated: 2026-05-21
 Суть: важные планы, собранные одним AI, отдавать на ревью другому AI перед исполнением.
 Почему: second opinion может ловить слепые зоны, слабые допущения и лишнюю сложность в личных/рабочих планах.
 Источники: `System/Wiki/raw/ideas-and-insights  04-05-2026 по  10-05-2025.md`, [[topics/productivity]].
+
+**Контроль регулярно перенастраивать**
+Статус: experiment.
+Суть: в задачах, где Артём берёт на себя структуру и контроль, заранее ставить точки проверки: не устарел ли план, что можно делегировать, где контроль стал микроконтролем, какую альтернативную модель стоит рассмотреть.
+Почему: Persona Talent показывает, что контроль и структурность - сильная стратегия Артёма, но при перегрузке она может превращаться в ригидность, туннельное мышление, жёсткость и снижение доверия.
+Источники: `System/Wiki/raw/Neuroprofile.md`, [[topics/neuroprofile]], [[insights/patterns]].
 
 **Быстрые решения под давлением переводить в протокол**
 Статус: experiment.

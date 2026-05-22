@@ -4,6 +4,28 @@ wiki_page: log
 
 # Wiki Log
 
+## [2026-05-22] ingest | Neuroprofile Persona Talent
+Источники:
+- `System/Wiki/raw/Neuroprofile.md`
+Фокус:
+- перенесён синтез нейропрофиля Persona Talent: сильные стороны, рабочая среда, риски контроля/ригидности, стиль коммуникации, обучение и развитие
+- raw-описание не дублировалось; профиль сохранён как рабочая гипотеза, связанная с Persona Navigator и существующими паттернами
+Обновлено:
+- [[entities/artyom]]
+- [[topics/work-career]]
+- [[topics/productivity]]
+- [[topics/learning]]
+- [[topics/relationships]]
+- [[insights/values]]
+- [[insights/patterns]]
+- [[insights/decisions]]
+- [[topics/questions]]
+- [[index]]
+Создано:
+- [[topics/neuroprofile]]
+Открытые вопросы:
+- [ ] Какие реальные рабочие/жизненные кейсы подтверждают или опровергают риск микроконтроля из нейропрофиля? Связано: [[topics/neuroprofile]], [[insights/patterns]]
+
 ## [2026-05-21] ingest | YearCompass 2025/2026
 Источники:
 - `System/Wiki/raw/yearcompass_2025_2026.md`
