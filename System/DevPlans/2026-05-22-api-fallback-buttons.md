@@ -1,8 +1,7 @@
 # Dev Plan: fallback-бот с кнопками при недоступности Claude API
 
 **Дата:** 2026-05-22
-**Статус:** идея
-**Связано с:** [[2026-05-21-bot-deterministic-commands]]
+**Статус:** объединён → [[2026-05-22-bot-resilience-and-commands]]
 
 ---
 
