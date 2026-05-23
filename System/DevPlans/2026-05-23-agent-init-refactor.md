@@ -1,7 +1,7 @@
 # Dev Plan: Рефакторинг инициализации агента и доработки
 
 date: 2026-05-23
-status: todo
+status: merged → [[2026-05-23-morning-init-and-day-plan]]
 
 ---
 

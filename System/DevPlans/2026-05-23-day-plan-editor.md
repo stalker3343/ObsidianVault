@@ -1,7 +1,7 @@
 # Dev Plan: Визуальный редактор плана дня
 
 date: 2026-05-23
-status: side-feature / idea
+status: side-feature / idea — см. также [[2026-05-23-morning-init-and-day-plan]]
 priority: low
 
 ---
