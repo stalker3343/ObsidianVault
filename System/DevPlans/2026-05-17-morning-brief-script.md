@@ -1,6 +1,6 @@
 ---
 created: 2026-05-17
-status: idea
+status: merged → [[2026-05-23-morning-init-and-day-plan]]
 tags:
   - dev-plan
   - morning-brief
