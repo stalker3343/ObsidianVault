@@ -4,6 +4,40 @@ wiki_page: log
 
 # Wiki Log
 
+## [2026-05-26] schema | Миграция wiki на project/decision/sprint структуру
+Источники:
+- разговор с Артёмом 2026-05-26 о том, что недельные срезы превращают страницы в хронологию
+Фокус:
+- заменить рост через "недельные срезы" на рост через синтез
+- разделить `topics/projects.md` на карту проектов и отдельные project-страницы
+- разделить `insights/decisions.md` на индекс и decision-страницы по областям
+Обновлено:
+- [[SCHEMA]]
+- [[index]]
+- [[topics/projects]]
+- [[topics/productivity]]
+- [[topics/health]]
+- [[insights/decisions]]
+Создано:
+- [[projects/second-job]]
+- [[projects/wedding]]
+- [[projects/ai-personal-productivity]]
+- [[projects/health-base]]
+- [[projects/english-and-learning]]
+- [[projects/sprint-system]]
+- [[projects/finance-and-household]]
+- [[projects/relationship-with-anya]]
+- [[decisions/projects]]
+- [[decisions/productivity]]
+- [[decisions/health]]
+- [[decisions/relationships]]
+- [[decisions/work-career]]
+- [[decisions/finance]]
+- [[sprints/2026-q2]]
+Новые правила:
+- topic/project страницы не должны расти недельными срезами
+- недельный источник должен обновлять текущее понимание, статус проекта, решения, риски и вопросы
+
 ## [2026-05-26] ingest | Рефлексия Q2, 7 неделя
 Источники:
 - `System/Wiki/raw/Рефлексии 2026q2/7 неделя.md`
