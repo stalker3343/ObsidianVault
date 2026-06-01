@@ -4,6 +4,38 @@ wiki_page: log
 
 # Wiki Log
 
+## [2026-05-30] ingest | Рефлексия Q2, 8 неделя на утро 30-05-26
+Источники:
+- `System/Wiki/raw/Рефлексии 2026q2/8 неделя на утро 30-05-26.md`
+Фокус:
+- встроить недельную рефлексию как обновление моделей, а не как хронологический срез
+- сохранить выводы про перегруз системы: недосып + болезнь/аллергия + эмоциональное напряжение + нереалистичные планы
+- закрепить новые правила: AI-план до 1-2 фокусов, событийный день как короткий буферный план, болезнь/недосып как сигнал сразу уменьшать план
+- обновить контур отношений с Аней: сначала эмоциональная поддержка, потом рациональные решения; не проверять решения сарказмом; логировать наблюдения
+- зафиксировать финальный рывок по свадьбе и день росписи 2026-05-30
+Обновлено:
+- [[topics/productivity]]
+- [[decisions/productivity]]
+- [[projects/ai-personal-productivity]]
+- [[topics/health]]
+- [[projects/health-base]]
+- [[decisions/health]]
+- [[topics/relationships]]
+- [[projects/relationship-with-anya]]
+- [[decisions/relationships]]
+- [[topics/wedding]]
+- [[projects/wedding]]
+- [[topics/learning]]
+- [[projects/english-and-learning]]
+- [[topics/work-career]]
+- [[decisions/work-career]]
+- [[insights/patterns]]
+- [[insights/decisions]]
+- [[sprints/2026-q2]]
+- [[index]]
+Создано:
+- нет
+
 ## [2026-05-29] ingest | Вопросы для пар от организатора (биографическое письмо к свадьбе)
 Источник:
 - `System/Wiki/raw/отноешния/Вопросы для пар от организатора.md`

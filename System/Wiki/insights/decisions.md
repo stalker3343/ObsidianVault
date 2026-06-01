@@ -1,7 +1,7 @@
 ---
 wiki_page: decisions
 type: insight
-updated: 2026-05-26
+updated: 2026-05-30
 ---
 
 # Решения и правила
@@ -28,9 +28,13 @@ updated: 2026-05-26
 - Вязкий проект превращать в физический следующий шаг → [[decisions/projects]].
 - Вечерний план защищён как ритуал → [[decisions/productivity]].
 - AI/wiki-сессии ограничивать результатом и временем → [[decisions/productivity]].
+- AI-план резать до 1-2 фокусов → [[decisions/productivity]].
+- Событийный день вести как короткий буферный план → [[decisions/productivity]].
 - Низкоэнергетический режим: только детерминированные задачи → [[decisions/productivity]], [[decisions/health]].
+- При болезни или недосыпе сразу уменьшать план → [[decisions/health]].
 - Еда вовремя — часть системы состояния → [[decisions/health]].
 - После ссоры или важного разговора сохранять конкретные действия → [[decisions/relationships]].
+- Сначала эмоциональная поддержка, потом рациональные решения → [[decisions/relationships]].
 
 ## Правило обновления
 
