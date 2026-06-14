@@ -1,7 +1,7 @@
 ---
 wiki_page: decisions
 type: insight
-updated: 2026-05-30
+updated: 2026-06-14
 ---
 
 # Решения и правила
