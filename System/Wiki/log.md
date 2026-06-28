@@ -4,6 +4,64 @@ wiki_page: log
 
 # Wiki Log
 
+## [2026-06-28] ingest | Daily 2026-06-08 — 2026-06-28
+Источники:
+- `Daily/2026-06-08.md`
+- `Daily/2026-06-09.md`
+- `Daily/2026-06-10.md`
+- `Daily/2026-06-11.md`
+- `Daily/2026-06-12.md`
+- `Daily/2026-06-13.md`
+- `Daily/2026-06-14.md`
+- `Daily/2026-06-15.md`
+- `Daily/2026-06-16.md`
+- `Daily/2026-06-17.md`
+- `Daily/2026-06-18.md`
+- `Daily/2026-06-19.md`
+- `Daily/2026-06-20.md`
+- `Daily/2026-06-21.md`
+- `Daily/2026-06-22.md`
+- `Daily/2026-06-23.md`
+- `Daily/2026-06-24.md`
+- `Daily/2026-06-25.md`
+- `Daily/2026-06-26.md`
+- `Daily/2026-06-27.md`
+- `Daily/2026-06-28.md`
+Фокус:
+- встроить июньский период в wiki как синтез, а не хронологический срез
+- выделить Волкова в отдельный project-контур: подготовка квартиры, сдача, договор, деньги, хвосты
+- обновить здоровье: повторяющийся симптомный кластер, сон, восстановление, бассейн/баня и серия тренировок спины
+- обновить продуктивность: откат после админ-рывка, Singularity/мелкие задачи, обзор проектов, протокол для должен-задач
+- обновить карьерный контур: LinkedIn, иностранный номер, WhatsApp, Google-регион, риск полезной прокрастинации английским/инфраструктурой
+- обновить отношения: совместный досуг и тактильность работают, но бытовой договор после свадьбы требует явного проговаривания
+Обновлено:
+- [[topics/projects]]
+- [[topics/finance]]
+- [[topics/health]]
+- [[topics/posture]]
+- [[topics/productivity]]
+- [[topics/work-career]]
+- [[topics/relationships]]
+- [[topics/questions]]
+- [[projects/finance-and-household]]
+- [[projects/volkova-rental]]
+- [[projects/health-base]]
+- [[projects/ai-personal-productivity]]
+- [[projects/sprint-system]]
+- [[projects/second-job]]
+- [[projects/relationship-with-anya]]
+- [[decisions/productivity]]
+- [[decisions/health]]
+- [[decisions/relationships]]
+- [[decisions/work-career]]
+- [[decisions/finance]]
+- [[insights/patterns]]
+- [[insights/decisions]]
+- [[sprints/2026-q2]]
+- [[index]]
+Создано:
+- [[projects/volkova-rental]]
+
 ## [2026-06-15] ingest | Паттерн ступора перед работой
 Источник:
 - чат Артёма 2026-06-15
