@@ -1,14 +1,16 @@
 ---
 wiki_page: work-career
 type: topic
-updated: 2026-06-28
+updated: 2026-08-16
 ---
 
 # Работа и карьера
 
-→ Связано с: [[entities/artyom]], [[topics/learning]], [[topics/community-tourism]], [[projects/second-job]], [[decisions/work-career]]
+→ Связано с: [[entities/artyom]], [[topics/learning]], [[projects/second-job]], [[projects/foreign-job]], [[projects/next-tick]], [[decisions/work-career]]
 
 ## Текущее понимание
+
+В Q3 основная работа, должность, зарплата и обязанности не изменились. Старый смешанный поиск разделён на [[projects/second-job|пассивный российский поиск]] и [[projects/foreign-job|зарубежную работу]]. Английский с преподавателем закрыт до первого собеседования; системный дизайн заменён практико-ориентированным контуром [[projects/next-tick]].
 
 Карьерный контур Артёма состоит из текущей работы в AMTex, поиска второй работы, позиционирования Senior Frontend/Vue, английского, AI в разработке и исторического опыта в общественных/туристических проектах.
 

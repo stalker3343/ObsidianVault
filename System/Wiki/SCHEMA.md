@@ -69,9 +69,10 @@ System/Wiki/
     second-job.md
     wedding.md
     ai-personal-productivity.md
-    health-base.md
-    english-and-learning.md
-    sprint-system.md
+    energy-of-life.md
+    relationship-with-anya.md
+    reflection-and-buddy.md
+    investment-plan-2026.md
 
   decisions/         ← решения и правила по областям
     productivity.md

@@ -1,12 +1,12 @@
 ---
 wiki_page: productivity
 type: topic
-updated: 2026-06-28
+updated: 2026-08-16
 ---
 
 # Продуктивность и системы
 
-→ Связано с: [[entities/artyom]], [[insights/patterns]], [[topics/health]], [[topics/desires]], [[topics/sprint-planning]], [[projects/ai-personal-productivity]], [[projects/sprint-system]]
+→ Связано с: [[entities/artyom]], [[insights/patterns]], [[topics/health]], [[topics/desires]], [[topics/sprint-planning]], [[projects/ai-personal-productivity]], [[projects/reflection-and-buddy]]
 
 ## Текущее понимание
 

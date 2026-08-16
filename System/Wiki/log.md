@@ -4,6 +4,85 @@ wiki_page: log
 
 # Wiki Log
 
+## [2026-08-16] lint | Wiki после актуализации Q3
+Проверено:
+- frontmatter всех project-страниц: `status` и `sprint` присутствуют;
+- уникальность `wiki_page`;
+- wikilinks во всех изменённых и новых страницах;
+- закрытие Q2 и единственный активный спринт Q3;
+- отсутствие whitespace-ошибок в diff;
+- старые пути `projects/sprint-system` и `projects/finance-and-household` сохранены как закрытые страницы-переходы, чтобы не ломать исторические ссылки;
+- пользовательское изменение `System/Today/schedule.md` не затронуто.
+
+Результат:
+- новых битых ссылок не найдено;
+- две старые ссылки-примера в `SCHEMA.md` на прежний путь `01. Daily/...` оставлены как часть документации, а не контентные ссылки;
+- состав активного портфеля согласован с Артёмом.
+
+## [2026-08-16] ingest | Актуализация Wiki и запуск 12НГ 2026 Q3
+Источники:
+- ответы Артёма и список текущих проектов, чат 2026-08-16;
+- итоговая таблица проектов Q2, чат 2026-08-16;
+- `Daily/2026-07-01.md` — `Daily/2026-07-14.md`;
+- `Daily/2026-08-03.md` — `Daily/2026-08-16.md`;
+- Reminder, «Гайд: как укрепить отношения в паре» — https://reminder.media/post/gayd-kak-ukrepit-otnosheniya-v-pare.
+
+Фокус:
+- закрыть Q2 и создать спринт 6 июля — 27 сентября;
+- выделить три главных проекта: здоровье по «Энергии жизни», свадебное путешествие и досуг/отношения с Аней;
+- разложить смешанную базу здоровья на сон, осанку, медитацию и рутины;
+- разделить российский и зарубежный поиск работы;
+- разделить бытовое поддержание и инвестиционный план;
+- закрыть AI-проект, английский, системный дизайн и другие завершённые/остановленные линии;
+- сохранить чувствительный контекст планирования ребёнка и различающейся потребности в близости по явному разрешению Артёма.
+
+Создано:
+- [[sprints/2026-q3]]
+- [[projects/sleep]]
+- [[projects/posture]]
+- [[projects/meditation]]
+- [[projects/routines]]
+- [[projects/social-and-rest]]
+- [[projects/energy-of-life]]
+- [[projects/parents]]
+- [[projects/honeymoon]]
+- [[projects/foreign-job]]
+- [[projects/next-tick]]
+- [[projects/investment-plan-2026]]
+- [[projects/pregnancy-preparation]]
+- [[projects/household]]
+- [[projects/reflection-and-buddy]]
+
+Переименовано/разделено:
+- «Система спринта и рефлексий» → [[projects/reflection-and-buddy]]; старый путь сохранён для истории.
+- «Финансы и бытовое» → [[projects/household]] + [[projects/investment-plan-2026]]; старый путь сохранён для истории.
+- Старый [[projects/second-job]] уточнён как пассивный поиск второй работы в России; зарубежная линия вынесена отдельно.
+
+Обновлено:
+- [[index]]
+- [[topics/projects]]
+- [[topics/health]]
+- [[topics/posture]]
+- [[topics/work-career]]
+- [[topics/relationships]]
+- [[topics/learning]]
+- [[topics/finance]]
+- [[topics/questions]]
+- [[entities/artyom]]
+- [[entities/anya]]
+- [[projects/relationship-with-anya]]
+- [[projects/ai-personal-productivity]]
+- [[projects/english-and-learning]]
+- [[projects/health-base]]
+- [[projects/volkova-rental]]
+- [[decisions/health]]
+- [[decisions/relationships]]
+- [[decisions/work-career]]
+- [[decisions/finance]]
+- [[decisions/productivity]]
+- [[sprints/2026-q2]]
+- [[SCHEMA]]
+
 ## [2026-06-28] ingest | Daily 2026-06-08 — 2026-06-28
 Источники:
 - `Daily/2026-06-08.md`

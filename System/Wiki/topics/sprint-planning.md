@@ -1,10 +1,12 @@
 ---
 wiki_page: sprint-planning
 type: topic
-updated: 2026-05-26
+updated: 2026-08-16
 ---
 
 # Дизайн 12-недельного спринта
+
+Активный цикл: [[sprints/2026-q3]], 6 июля — 27 сентября 2026 включительно. Три главных линии: здоровье по «Энергии жизни», подготовка свадебного путешествия и досуг/отношения с Аней.
 
 → Связано с: [[topics/projects]], [[topics/productivity]], [[insights/patterns]], [[insights/decisions]], [[insights/values]]
 

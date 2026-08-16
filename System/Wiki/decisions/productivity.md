@@ -1,12 +1,12 @@
 ---
 wiki_page: decisions-productivity
 type: insight
-updated: 2026-06-28
+updated: 2026-08-16
 ---
 
 # Решения по продуктивности
 
-→ Связано с: [[topics/productivity]], [[projects/ai-personal-productivity]], [[projects/sprint-system]]
+→ Связано с: [[topics/productivity]], [[projects/ai-personal-productivity]], [[projects/reflection-and-buddy]]
 
 ## День и внимание
 

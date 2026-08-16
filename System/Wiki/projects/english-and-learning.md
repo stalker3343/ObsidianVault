@@ -1,14 +1,18 @@
 ---
 wiki_page: english-and-learning
 type: project
-status: active
+status: closed
 sprint: 2026Q2
-updated: 2026-05-30
+updated: 2026-08-16
 ---
 
 # Английский и обучение
 
 → Связано с: [[topics/learning]], [[topics/work-career]], [[projects/second-job]], [[decisions/work-career]]
+
+## Статус после Q2
+
+Английский с преподавателем успешно закрыт как спринтовый контур: было много занятий и заметный прогресс. В Q3 занятия остановлены до первого собеседования по [[projects/foreign-job|зарубежной работе]]. Системный дизайн закрыт, а активное профессиональное обучение перенесено в [[projects/next-tick]]. РСВ и связанные практики поставлены на паузу.
 
 ## Текущее понимание
 

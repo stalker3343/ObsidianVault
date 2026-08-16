@@ -1,14 +1,18 @@
 ---
 wiki_page: health-base
 type: project
-status: active
+status: closed
 sprint: 2026Q2
-updated: 2026-06-28
+updated: 2026-08-16
 ---
 
 # База здоровья
 
 → Связано с: [[topics/health]], [[topics/posture]], [[decisions/health]], [[topics/productivity]]
+
+## Статус после Q2
+
+Смешанный проект закрыт и декомпозирован. В Q3 здоровье ведётся через [[projects/energy-of-life]], [[projects/sleep]], [[projects/posture]], [[projects/meditation]], [[projects/routines]] и [[projects/social-and-rest]]. История Q2 ниже сохранена как основание решений.
 
 ## Текущее понимание
 

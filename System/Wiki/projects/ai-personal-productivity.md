@@ -1,14 +1,18 @@
 ---
 wiki_page: ai-personal-productivity
 type: project
-status: active
+status: closed
 sprint: 2026Q2
-updated: 2026-06-28
+updated: 2026-08-16
 ---
 
 # AI для личной продуктивности
 
 → Связано с: [[topics/productivity]], [[topics/projects]], [[decisions/productivity]], [[SCHEMA]]
+
+## Статус после Q2
+
+Проект закрыт. За Q2 создан и использовался собственный бот/Jarvis: план дня, capture, голосовые логи, Singularity, Wiki и итоги дня. Это один из крупнейших сдвигов спринта, но дальнейшее развитие системы не входит в активный портфель Q3. Бот и Wiki остаются рабочими инструментами, включая текущую актуализацию базы.
 
 ## Текущее понимание
 
